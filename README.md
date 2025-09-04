@@ -3,7 +3,7 @@
 A simple, mobile-friendly web application to track and manage contributions for the Sentient AI project. Built as part of the Builder role path toward Early AGI, Advanced AGI, and Sentient AGI.
 
 ## 🚀 Live Demo
-[View the tracker here](https://yourusername.github.io/sentient-ai-tracker) *(replace with your actual GitHub Pages URL)*
+[View the tracker here](https://sam50506.github.io/Sentient-contribution-tracker/)
 
 ## 📋 Features
 
